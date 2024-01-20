@@ -1,6 +1,7 @@
 '''
 takes a text document as input
 counts the frequency of each unique word in the document
+test
 '''
 
 def word_frequency_1(file):
